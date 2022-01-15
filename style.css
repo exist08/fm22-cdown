@@ -43,6 +43,7 @@ body>* {
     background-size: cover;
     background-repeat: no-repeat;
     background-blend-mode: soft-light;
+    background-position: center;
     display: flex;
     justify-content: center;
     align-items: center;
